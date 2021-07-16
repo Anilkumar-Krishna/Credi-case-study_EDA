@@ -1,5 +1,5 @@
-To understand the variables which are strong indicators of bank defaulters and non-defaulters of credit.  
-Summary suggestions:
+# To understand the variables which are strong indicators of bank defaulters and non-defaulters of credit.  
+# Summary suggestions:
 1. Banks could focus more their credit delivery to female categories who are working, working as commercial   associates and state servants as they have higher income distribution
 
 2. In the credit type the cash loans are more popular.  Banks focus on cash loans for female category
